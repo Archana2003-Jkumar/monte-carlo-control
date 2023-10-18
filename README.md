@@ -1,8 +1,7 @@
 # MONTE CARLO CONTROL ALGORITHM
 
 ## AIM
-Write the experiment AIM.
-
+The 
 ## PROBLEM STATEMENT
 Explain the problem statement.
 
