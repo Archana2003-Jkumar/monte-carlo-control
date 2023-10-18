@@ -5,11 +5,11 @@ To develop a Python program to find the optimal policy for the given RL environm
 ## PROBLEM STATEMENT
 In this program "FrozenLake" environment has been used with 15 states.
 ## MONTE CARLO CONTROL ALGORITHM
-1.Import all the required packages.
-2.Define policy to analyse.
-3.Find the state value function.
-4.Depending on each returns action value and state value function are determined.
-5.Print the optimal policy.
+1. Import all the required packages.
+2. Define policy to analyse.
+3. Find the state value function.
+4. Depending on each returns action value and state value function are determined.
+5. Print the optimal policy.
 ## MONTE CARLO CONTROL FUNCTION
 ```
 #Monte control
